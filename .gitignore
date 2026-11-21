@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+kaggle.json
+*.h5
+*.pt
+*.pth
+*.pkl
+*.joblib
+_KONTROL_ET.txt
